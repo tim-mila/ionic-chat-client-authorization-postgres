@@ -1,1 +1,1 @@
-create database "ionic-chat-client-server";
+create database "ionic-chat-client-authorization";
